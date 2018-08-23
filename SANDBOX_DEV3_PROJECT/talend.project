@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_63neQaakEeie8fBydVwJyQ" label="Sandbox_dev3_project" language="java" technicalLabel="SANDBOX_DEV3_PROJECT" creationDate="2018-08-23T00:18:50.000-0700" author="_63neQqakEeie8fBydVwJyQ" productVersion="Talend Data Fabric-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/manodwhb/git-training&quot;,&quot;login&quot;:&quot;manodwhb&quot;,&quot;passwd&quot;:&quot;T9lQr3NtwW353Xj9LC+xXg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_63neQqakEeie8fBydVwJyQ" login="dev3@company.com" firstName="dev3" lastName="dev3" type="MDM"/>
+</xmi:XMI>
